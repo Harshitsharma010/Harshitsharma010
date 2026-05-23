@@ -1,137 +1,68 @@
 <div align="center">
 
-# Hi, I'm Harshit Sharma
+# Harshit Sharma
 
-<!-- Profile README for github.com/Harshitsharma010 -->
+### Cloud, AI, Full-Stack, and Cybersecurity Builder
 
-### Cybersecurity and AI builder
+2026 B.Tech CSE student building practical projects across cloud deployment,
+AI applications, cybersecurity tooling, and full-stack engineering.
 
-I turn security ideas into working products: phishing detection systems,
-local AI assistants, browser workflows, ML APIs, dashboards, and cloud-ready apps.
+I focus on projects that can be inspected, run locally, documented clearly,
+and improved like real products.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Harshitsharma010-111827?style=for-the-badge&logo=github)](https://github.com/Harshitsharma010)
-[![Followers](https://img.shields.io/github/followers/Harshitsharma010?style=for-the-badge&logo=github&label=Followers)](https://github.com/Harshitsharma010?tab=followers)
 [![Profile Views](https://komarev.com/ghpvc/?username=Harshitsharma010&style=for-the-badge&color=0f766e)](https://github.com/Harshitsharma010)
 
 </div>
 
----
-
-## What I Build
-
-```js
-const harshit = {
-  focus: ["Cybersecurity", "AI/ML", "Full-stack engineering", "Cloud deployment"],
-  building: ["phishing detection", "local AI assistants", "safe link scanners", "product dashboards"],
-  stack: ["Python", "Flask", "scikit-learn", "React", "TypeScript", "JavaScript", "Docker", "AWS"],
-  goal: "Build practical tools that feel useful, not just impressive."
-};
-```
-
----
-
 ## Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>TrustNet CyberCop</h3>
-      <p>ML-powered phishing URL detection platform with Flask API, trained RandomForest model, React dashboard, Chrome extension flow, Docker support, and AWS deployment config.</p>
-      <p>
-        <a href="https://github.com/Harshitsharma010/trustnet-cybercop"><strong>View repository</strong></a>
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript" />
-        <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python" />
-        <img src="https://img.shields.io/badge/ML-0f766e?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3>Local AI RAG Assistant</h3>
-      <p>Offline RAG-based AI assistant using LangChain, ChromaDB, and Ollama for local document question answering and private AI workflows.</p>
-      <p>
-        <a href="https://github.com/Harshitsharma010/local-ai-rag-assistant"><strong>View repository</strong></a>
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python" />
-        <img src="https://img.shields.io/badge/LangChain-0f766e?style=flat-square" />
-        <img src="https://img.shields.io/badge/Ollama-111827?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>SafeLink AI</h3>
-      <p>JavaScript project focused on safer link analysis and security-first URL checking workflows.</p>
-      <p>
-        <a href="https://github.com/Harshitsharma010/safelink-ai"><strong>View repository</strong></a>
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript" />
-        <img src="https://img.shields.io/badge/Security-2563eb?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3>Team Task Manager</h3>
-      <p>Task management project showing full-stack product thinking, team workflows, and clean application structure.</p>
-      <p>
-        <a href="https://github.com/Harshitsharma010/Team-Task-Manager"><strong>View repository</strong></a>
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript" />
-        <img src="https://img.shields.io/badge/Productivity-0f766e?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-</table>
+| Project | What It Shows | Stack |
+| --- | --- | --- |
+| [TrustNet CyberCop](https://github.com/Harshitsharma010/trustnet-cybercop) | ML phishing URL detection with Flask API, React dashboard, Chrome extension, Docker, and AWS deployment setup | Python, Flask, scikit-learn, React, Docker, AWS |
+| [Local AI RAG Assistant](https://github.com/Harshitsharma010/local-ai-rag-assistant) | Private local document Q&A using retrieval-augmented generation | Python, LangChain, ChromaDB, Ollama, Streamlit |
+| [Team Task Manager](https://github.com/Harshitsharma010/Team-Task-Manager) | Full-stack productivity app with auth, projects, tasks, members, and deployment config | React, Node.js, Express, MongoDB, JWT |
+| [SafeLink AI](https://github.com/Harshitsharma010/safelink-ai) | Browser-based URL and message safety checker with risk scoring | JavaScript, React, Express, Security Rules |
 
----
+## Target Roles
 
-## Tech Stack
+- Cloud Engineer Intern
+- DevOps Intern
+- AI Engineer Intern
+- Full Stack Developer Intern
+- Cybersecurity Intern
+- Technical Support Engineer - Cloud
 
-<div align="center">
+## Core Skills
 
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=ffd43b)
-![Flask](https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=f7931e)
-![Pandas](https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-111827?style=for-the-badge)
-![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61dafb)
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178c6)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=f7df1e)
-![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ed)
-![AWS](https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonaws&logoColor=ff9900)
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=f05032)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
----
+| Area | Skills |
+| --- | --- |
+| Cloud / DevOps | Docker, AWS App Runner, AWS Amplify, Railway, environment variables, deployment documentation |
+| Backend | Flask, Node.js, Express, REST APIs, authentication, health checks |
+| AI / ML | scikit-learn, phishing feature extraction, LangChain, ChromaDB, Ollama, RAG |
+| Frontend | React, Vite, Streamlit, dashboards, browser extension UI |
+| Cybersecurity | phishing detection, URL analysis, suspicious signal scoring, safe browsing workflows |
 
 ## Current Focus
 
-- Building stronger cybersecurity projects with real detection logic.
-- Improving ML-backed APIs with validation, metrics, and deployment readiness.
-- Creating dashboards that make technical results easy to understand.
-- Learning cloud, DevOps, and AI by shipping complete projects.
+- Building cloud-ready projects with clear setup and deployment documentation.
+- Improving AI and ML applications with real data flow, limitations, and evaluation notes.
+- Creating security tools that explain risk clearly to users.
+- Making every project recruiter-readable with screenshots, architecture, and demo proof.
 
----
+## Project Standards
 
-## GitHub Snapshot
+For every main repo, I am working toward:
 
-| Area | Current Highlights |
-| --- | --- |
-| Main work | Cybersecurity tools, AI assistants, phishing detection, dashboards |
-| Current repos | TrustNet CyberCop, Local AI RAG Assistant, SafeLink AI, Team Task Manager |
-| Languages | Python, TypeScript, JavaScript |
-| Backend | Flask, ML inference APIs, local AI workflows |
-| Frontend | React dashboards, browser extension interfaces |
-| Deployment | Docker, AWS-ready project structure |
+- Clear problem statement
+- Architecture diagram
+- Local setup instructions
+- Demo screenshots or video
+- API examples
+- Deployment notes
+- Security notes and limitations
+- Future improvements
 
----
+## Contact
 
-<div align="center">
-
-### Building practical AI and cybersecurity projects, one repo at a time.
-
-</div>
+- GitHub: [Harshitsharma010](https://github.com/Harshitsharma010)
