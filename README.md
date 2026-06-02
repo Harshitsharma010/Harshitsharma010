@@ -1,19 +1,94 @@
-# Harshit Sharma
+# Hi, I'm Harshit Sharma
 
-### Junior Cloud, Cloud Security & ML Builder
+<p>
+  <img src="https://img.shields.io/badge/Focus-Cloud%20%7C%20Cloud%20Security%20%7C%20ML-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS-Lambda%20%7C%20API%20Gateway%20%7C%20ECR-orange?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-RAG%20%7C%20LLM%20Projects-purple?style=for-the-badge" />
+</p>
 
-Computer Science student building practical projects across AWS cloud deployment, cybersecurity tooling, ML inference, full-stack apps, and local RAG/LLM workflows.
+Computer Science student building deployable, documented projects across **AWS cloud**, **cloud security**, **ML inference**, **full-stack apps**, and **local RAG/LLM workflows**.
 
-I focus on projects that are deployed, documented, easy to inspect, and built like real portfolio products.
+My focus is simple: build projects that are not just demos, but inspectable portfolio products with architecture, deployment proof, security notes, and clear limitations.
+
+---
 
 ## Featured Projects
 
-| Project | What It Shows | Stack |
-| --- | --- | --- |
-| [TrustNet CyberCop](https://github.com/Harshitsharma010/trustnet-cybercop) | AWS-deployed phishing URL detection platform with ML inference, Lambda container backend, API Gateway, ECR, Amplify dashboard, CloudWatch logs/alarms, throttling, IAM proof, and Chrome Extension integration | AWS Lambda, API Gateway, ECR, Amplify, CloudWatch, Docker, Python, Flask, scikit-learn, React, TypeScript |
-| [Local AI RAG Assistant](https://github.com/Harshitsharma010/local-ai-rag-assistant) | Offline RAG-based assistant for local document/webpage Q&A using vector search and local LLMs | Python, LangChain, ChromaDB, Ollama, Streamlit |
-| [Team Task Manager](https://github.com/Harshitsharma010/Team-Task-Manager) | Full-stack collaboration app with auth, projects, tasks, members, dashboard stats, and deployment debugging | React, Node.js, Express, MongoDB, JWT |
-| [SafeLink AI](https://github.com/Harshitsharma010/safelink-ai) | Browser-based URL and message safety checker with rule-based risk scoring | JavaScript, React, Express, Security Rules |
+<table>
+  <tr>
+    <td width="50%">
+      <h3>TrustNet CyberCop</h3>
+      <p><b>AWS-deployed phishing URL detection platform</b></p>
+      <p>
+        ML inference backend deployed as a Lambda container, exposed through API Gateway, hosted with Amplify, monitored with CloudWatch, and connected to a Chrome Extension.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/AWS-Lambda-orange" />
+        <img src="https://img.shields.io/badge/API-Gateway-blue" />
+        <img src="https://img.shields.io/badge/ECR-Docker-blue" />
+        <img src="https://img.shields.io/badge/CloudWatch-Monitoring-purple" />
+      </p>
+      <a href="https://github.com/Harshitsharma010/trustnet-cybercop">View Repository</a>
+    </td>
+    <td width="50%">
+      <h3>Local AI RAG Assistant</h3>
+      <p><b>Offline RAG assistant with local LLMs</b></p>
+      <p>
+        Privacy-focused AI assistant using LangChain, ChromaDB, Ollama, vector search, and Streamlit for local document and webpage Q&A.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/LangChain-RAG-green" />
+        <img src="https://img.shields.io/badge/ChromaDB-Vector%20DB-purple" />
+        <img src="https://img.shields.io/badge/Ollama-Local%20LLM-black" />
+      </p>
+      <a href="https://github.com/Harshitsharma010/local-ai-rag-assistant">View Repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Team Task Manager</h3>
+      <p><b>Full-stack collaboration platform</b></p>
+      <p>
+        Task management app with JWT authentication, projects, tasks, members, dashboard stats, and deployment debugging.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React-Frontend-blue" />
+        <img src="https://img.shields.io/badge/Node.js-Backend-green" />
+        <img src="https://img.shields.io/badge/MongoDB-Database-darkgreen" />
+      </p>
+      <a href="https://github.com/Harshitsharma010/Team-Task-Manager">View Repository</a>
+    </td>
+    <td width="50%">
+      <h3>SafeLink AI</h3>
+      <p><b>Browser-based safety checker</b></p>
+      <p>
+        URL and message risk checker with browser-facing UI, rule-based scoring, and safe browsing workflow.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Security-URL%20Safety-red" />
+        <img src="https://img.shields.io/badge/JavaScript-App-yellow" />
+        <img src="https://img.shields.io/badge/React-UI-blue" />
+      </p>
+      <a href="https://github.com/Harshitsharma010/safelink-ai">View Repository</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Skills
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-Lambda%20%7C%20API%20Gateway%20%7C%20ECR%20%7C%20Amplify-orange?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-Containerization-blue?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Flask%20%7C%20ML-blue?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-TypeScript-cyan?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-RAG-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/CloudWatch-Logs%20%7C%20Alarms-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Phishing%20Detection-red?style=flat-square" />
+</p>
+
+---
 
 ## Target Roles
 
@@ -25,36 +100,17 @@ I focus on projects that are deployed, documented, easy to inspect, and built li
 - Technical Support Engineer - Cloud
 - Full Stack Developer Intern
 
-## Core Skills
-
-| Area | Skills |
-| --- | --- |
-| Cloud / DevOps | AWS Lambda, API Gateway, ECR, Amplify, CloudWatch, Docker, GitHub Actions, Free Tier cost control |
-| Backend | Python, Flask, Node.js, Express, REST APIs, authentication, health checks |
-| ML / AI | scikit-learn, ML inference APIs, phishing feature extraction, LangChain, ChromaDB, Ollama, RAG |
-| Frontend | React, TypeScript, Vite, Streamlit, dashboards, Chrome Extension UI |
-| Cybersecurity | phishing detection, URL analysis, suspicious signal scoring, safe browsing workflows, security documentation |
-| Operations | logs, alarms, throttling, IAM awareness, deployment proof, architecture docs |
+---
 
 ## Current Focus
 
-- Building AWS-deployed projects with clear architecture and security notes.
-- Improving cloud-security portfolio proof with monitoring, IAM, throttling, and cost-control decisions.
-- Building ML and RAG/LLM applications with practical data flow and limitations.
-- Making every project recruiter-readable with screenshots, live links, architecture, and documentation.
+- AWS serverless deployment and Free Tier-conscious architecture
+- Cloud security documentation, monitoring, IAM, throttling, and cost controls
+- ML inference APIs and phishing URL feature extraction
+- Local RAG/LLM apps with LangChain, ChromaDB, and Ollama
+- Recruiter-readable project documentation with screenshots and live proof
 
-## Project Standards
-
-For every main repo, I aim to include:
-
-- Clear problem statement
-- Architecture documentation
-- Local setup instructions
-- Live deployment or demo proof
-- API examples
-- Security notes and limitations
-- Cost-control notes where cloud is involved
-- Future improvements
+---
 
 ## Contact
 
