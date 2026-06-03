@@ -1,14 +1,14 @@
 # Hi, I'm Harshit Sharma
 
 <p>
-  <img src="https://img.shields.io/badge/Focus-Cloud%20%7C%20Cloud%20Security%20%7C%20ML-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AWS-Lambda%20%7C%20API%20Gateway%20%7C%20ECR-orange?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-RAG%20%7C%20LLM%20Projects-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Cloud%20%7C%20DevOps%20%7C%20Cloud%20Security-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS-ECS%20Fargate%20%7C%20ECR%20%7C%20ALB-orange?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/IaC-Terraform%20%7C%20GitHub%20Actions-purple?style=for-the-badge" />
 </p>
 
-Computer Science student building deployable, documented projects across **AWS cloud**, **cloud security**, **ML inference**, **full-stack apps**, and **local RAG/LLM workflows**.
+Computer Science student building deployable, documented projects across **AWS cloud**, **DevOps**, **cloud security**, **AI applications**, and **full-stack engineering**.
 
-My focus is simple: build projects that are not just demos, but inspectable portfolio products with architecture, deployment proof, security notes, and clear limitations.
+My goal is to build portfolio projects that can be inspected like real engineering work: clear architecture, local setup, Docker support, deployment proof, screenshots, logs, cost notes, and honest limitations.
 
 ---
 
@@ -16,6 +16,22 @@ My focus is simple: build projects that are not just demos, but inspectable port
 
 <table>
   <tr>
+    <td width="50%">
+      <h3>AWS ECS Fargate Terraform CI/CD Deployment Lab</h3>
+      <p><b>Containerized FastAPI service deployed to ECS Fargate with Terraform</b></p>
+      <p>
+        Built a Dockerized FastAPI API, pushed the image to Amazon ECR, provisioned ECS Fargate infrastructure with Terraform, exposed it through an Application Load Balancer, verified CloudWatch logs, and added GitHub Actions CI for tests and Docker build validation.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/AWS-ECS%20Fargate-orange" />
+        <img src="https://img.shields.io/badge/Terraform-IaC-purple" />
+        <img src="https://img.shields.io/badge/Docker-ECR-blue" />
+        <img src="https://img.shields.io/badge/ALB-HTTP%2080-green" />
+        <img src="https://img.shields.io/badge/CloudWatch-Logs-purple" />
+        <img src="https://img.shields.io/badge/GitHub%20Actions-CI-black" />
+      </p>
+      <a href="https://github.com/Harshitsharma010/aws-ecs-fargate-terraform-cicd">View Repository</a>
+    </td>
     <td width="50%">
       <h3>TrustNet CyberCop</h3>
       <p><b>AWS-deployed phishing URL detection platform</b></p>
@@ -30,6 +46,8 @@ My focus is simple: build projects that are not just demos, but inspectable port
       </p>
       <a href="https://github.com/Harshitsharma010/trustnet-cybercop">View Repository</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>Local AI RAG Assistant</h3>
       <p><b>Offline RAG assistant with local LLMs</b></p>
@@ -43,8 +61,6 @@ My focus is simple: build projects that are not just demos, but inspectable port
       </p>
       <a href="https://github.com/Harshitsharma010/local-ai-rag-assistant">View Repository</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3>Team Task Manager</h3>
       <p><b>Full-stack collaboration platform</b></p>
@@ -58,33 +74,32 @@ My focus is simple: build projects that are not just demos, but inspectable port
       </p>
       <a href="https://github.com/Harshitsharma010/Team-Task-Manager">View Repository</a>
     </td>
-    <td width="50%">
-      <h3>SafeLink AI</h3>
-      <p><b>Browser-based safety checker</b></p>
-      <p>
-        URL and message risk checker with browser-facing UI, rule-based scoring, and safe browsing workflow.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Security-URL%20Safety-red" />
-        <img src="https://img.shields.io/badge/JavaScript-App-yellow" />
-        <img src="https://img.shields.io/badge/React-UI-blue" />
-      </p>
-      <a href="https://github.com/Harshitsharma010/safelink-ai">View Repository</a>
-    </td>
   </tr>
 </table>
 
 ---
 
-## Skills
+## Cloud / DevOps Skills
+
+| Area | Tools and Concepts |
+| --- | --- |
+| AWS Compute | ECS Fargate, Lambda, API Gateway |
+| AWS Containers | Docker, ECR, task definitions, container logs |
+| AWS Networking | VPC, public subnets, Internet Gateway, ALB, security groups |
+| Infrastructure as Code | Terraform providers, variables, resources, outputs, destroy workflow |
+| Observability | CloudWatch log groups, log streams, health checks |
+| CI/CD | GitHub Actions, pytest, Docker build validation |
+| Cost Control | Free Tier-conscious design, avoiding NAT Gateway/RDS/paid extras, teardown notes |
+
+## Development Skills
 
 <p>
-  <img src="https://img.shields.io/badge/AWS-Lambda%20%7C%20API%20Gateway%20%7C%20ECR%20%7C%20Amplify-orange?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-FastAPI%20%7C%20Flask%20%7C%20ML-blue?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-Containerization-blue?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-Flask%20%7C%20ML-blue?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-Infrastructure%20as%20Code-purple?style=flat-square&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-ECS%20%7C%20ECR%20%7C%20ALB%20%7C%20CloudWatch-orange?style=flat-square&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/React-TypeScript-cyan?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/LangChain-RAG-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/CloudWatch-Logs%20%7C%20Alarms-purple?style=flat-square" />
   <img src="https://img.shields.io/badge/Cybersecurity-Phishing%20Detection-red?style=flat-square" />
 </p>
 
@@ -92,11 +107,11 @@ My focus is simple: build projects that are not just demos, but inspectable port
 
 ## Target Roles
 
-- Junior Cloud Engineer
 - Cloud Engineer Intern
 - DevOps Intern
+- Junior Cloud Engineer
 - Cloud Security Intern
-- ML / AI Intern
+- AI / ML Intern
 - Technical Support Engineer - Cloud
 - Full Stack Developer Intern
 
@@ -104,11 +119,26 @@ My focus is simple: build projects that are not just demos, but inspectable port
 
 ## Current Focus
 
-- AWS serverless deployment and Free Tier-conscious architecture
-- Cloud security documentation, monitoring, IAM, throttling, and cost controls
-- ML inference APIs and phishing URL feature extraction
-- Local RAG/LLM apps with LangChain, ChromaDB, and Ollama
-- Recruiter-readable project documentation with screenshots and live proof
+- Building AWS deployment labs with Docker, Terraform, ECS, ECR, ALB, IAM, and CloudWatch.
+- Improving CI/CD workflows with GitHub Actions, automated tests, and Docker build checks.
+- Writing recruiter-readable project documentation with architecture, screenshots, and proof.
+- Creating security and AI tools with clear risk explanations, limitations, and reproducible setup.
+
+---
+
+## Project Standards
+
+For every main project, I aim to include:
+
+- Clear problem statement
+- Architecture overview
+- Local setup instructions
+- Docker or deployment workflow
+- API examples
+- Screenshots or deployment proof
+- Security and cost notes
+- Known limitations
+- Next improvements
 
 ---
 
