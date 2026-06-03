@@ -12,6 +12,17 @@ My goal is to build portfolio projects that can be inspected like real engineeri
 
 ---
 
+## Main Cloud Portfolio
+
+| Project | Cloud Signal | Why It Matters |
+| --- | --- | --- |
+| [AWS ECS Fargate Terraform CI/CD Deployment Lab](https://github.com/Harshitsharma010/aws-ecs-fargate-terraform-cicd) | ECS Fargate, Docker, ECR, ALB, Terraform, CloudWatch, GitHub Actions CI | Shows containerized backend deployment, infrastructure as code, health checks, logs, CI, and cost-controlled teardown |
+| [TrustNet CyberCop](https://github.com/Harshitsharma010/trustnet-cybercop) | Lambda container, API Gateway, ECR, Amplify, CloudWatch, Chrome extension | Shows serverless ML inference, security product thinking, cloud deployment proof, monitoring, and user-facing workflow |
+
+These are my two strongest repositories for cloud and DevOps roles. They are built to be reviewed through architecture docs, screenshots, deployment proof, limitations, and reproducible setup steps.
+
+---
+
 ## Featured Projects
 
 <table>
