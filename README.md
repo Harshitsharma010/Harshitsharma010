@@ -10,6 +10,8 @@ Computer Science student building deployable, documented projects across **AWS c
 
 My goal is to build portfolio projects that can be inspected like real engineering work: clear architecture, local setup, Docker support, deployment proof, screenshots, logs, cost notes, and honest limitations.
 
+Currently focused on **junior cloud engineer**, **DevOps intern**, **cloud security intern**, and **cloud support engineer** roles in India and remote-friendly teams.
+
 ---
 
 ## Main Cloud Portfolio
@@ -20,6 +22,17 @@ My goal is to build portfolio projects that can be inspected like real engineeri
 | [TrustNet CyberCop](https://github.com/Harshitsharma010/trustnet-cybercop) | Lambda container, API Gateway, ECR, Amplify, CloudWatch, Chrome extension | Shows serverless ML inference, security product thinking, cloud deployment proof, monitoring, and user-facing workflow |
 
 These are my two strongest repositories for cloud and DevOps roles. They are built to be reviewed through architecture docs, screenshots, deployment proof, limitations, and reproducible setup steps.
+
+## What To Review First
+
+| If you are checking for... | Start here |
+| --- | --- |
+| AWS container deployment | [ECS Fargate Terraform lab](https://github.com/Harshitsharma010/aws-ecs-fargate-terraform-cicd) |
+| Serverless security product | [TrustNet CyberCop](https://github.com/Harshitsharma010/trustnet-cybercop) |
+| Infrastructure as code | ECS repo `infra/` and `docs/terraform-explained.md` |
+| Cloud troubleshooting | ECS repo `docs/troubleshooting.md` |
+| Security thinking | TrustNet `SECURITY.md` and `docs/security-review.md` |
+| Interview depth | Both repos include `docs/interview-questions.md` |
 
 ---
 
