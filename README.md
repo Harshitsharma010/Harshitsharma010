@@ -115,6 +115,19 @@ These are my two strongest repositories for cloud and DevOps roles. They are bui
 | CI/CD | GitHub Actions, pytest, Docker build validation |
 | Cost Control | Free Tier-conscious design, avoiding NAT Gateway/RDS/paid extras, teardown notes |
 
+## Credentials & Training
+
+Verified badges: [Credly profile](https://www.credly.com/users/harshit-sharma.347f2e0b)
+
+| Badge | Issuer | Focus |
+| --- | --- | --- |
+| AWS Academy Graduate - Cloud Architecting | AWS Academy | AWS architecture, networking, compute, storage, and deployment fundamentals |
+| AWS Academy Graduate - Cloud Foundations | AWS Academy | Core AWS services, cloud concepts, security, pricing, and support |
+| AWS Academy Graduate - Generative AI Foundations | AWS Academy | Generative AI concepts and AWS AI learning path fundamentals |
+| AWS Academy Graduate - Machine Learning Foundations | AWS Academy | ML fundamentals, model concepts, and applied AI basics |
+| AWS Academy Graduate - Machine Learning for Natural Language Processing | AWS Academy | NLP and machine learning concepts |
+| McKinsey.org Forward Program | McKinsey.org | Problem solving, communication, adaptability, and digital workplace skills |
+
 ## Development Skills
 
 <p>
