@@ -191,3 +191,4 @@ For every main project, I aim to include:
 ## Contact
 
 - GitHub: [Harshitsharma010](https://github.com/Harshitsharma010)
+- LinkedIn: [harshitsharma624](https://www.linkedin.com/in/harshitsharma624/)
