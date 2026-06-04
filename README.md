@@ -117,7 +117,10 @@ These are my two strongest repositories for cloud and DevOps roles. They are bui
 
 ## Credentials & Training
 
-Verified badges: [Credly profile](https://www.credly.com/users/harshit-sharma.347f2e0b)
+Verified badges:
+
+- [AWS Academy / McKinsey Credly profile](https://www.credly.com/users/harshit-sharma.347f2e0b)
+- [Cisco Credly profile](https://www.credly.com/users/harshit-sharma.f0727918)
 
 | Badge | Issuer | Focus |
 | --- | --- | --- |
@@ -126,6 +129,12 @@ Verified badges: [Credly profile](https://www.credly.com/users/harshit-sharma.34
 | AWS Academy Graduate - Generative AI Foundations | AWS Academy | Generative AI concepts and AWS AI learning path fundamentals |
 | AWS Academy Graduate - Machine Learning Foundations | AWS Academy | ML fundamentals, model concepts, and applied AI basics |
 | AWS Academy Graduate - Machine Learning for Natural Language Processing | AWS Academy | NLP and machine learning concepts |
+| CCNA: Introduction to Networks | Cisco | Network fundamentals, IP addressing, Ethernet, and routing basics |
+| CCNA: Switching, Routing, and Wireless Essentials | Cisco | Switching, routing, VLANs, wireless, and network operations |
+| CCNA: Enterprise Networking, Security, and Automation | Cisco | Enterprise networking, security concepts, automation, and troubleshooting |
+| Introduction to Cybersecurity | Cisco | Cybersecurity fundamentals, threats, and defensive concepts |
+| Python Essentials 1 | Cisco | Python programming fundamentals |
+| Python Essentials 2 | Cisco | Intermediate Python concepts and problem solving |
 | McKinsey.org Forward Program | McKinsey.org | Problem solving, communication, adaptability, and digital workplace skills |
 
 ## Development Skills
