@@ -6,6 +6,11 @@
   <img src="https://img.shields.io/badge/IaC-Terraform%20%7C%20GitHub%20Actions-purple?style=for-the-badge" />
 </p>
 
+## Live Portfolio
+
+[**View harshitbuilds.in ->**](https://www.harshitbuilds.in)  
+A cinematic engineering portfolio with live projects, deployment proof, architecture decisions, and recruiter-ready case studies.
+
 Computer Science student building deployable, documented projects across **AWS cloud**, **DevOps**, **cloud security**, **AI applications**, and **full-stack engineering**.
 
 My goal is to build portfolio projects that can be inspected like real engineering work: clear architecture, local setup, Docker support, deployment proof, screenshots, logs, cost notes, and honest limitations.
