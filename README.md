@@ -11,7 +11,7 @@
 [**View harshitbuilds.in ->**](https://www.harshitbuilds.in)  
 A cinematic engineering portfolio with live projects, deployment proof, architecture decisions, and recruiter-ready case studies.
 
-Computer Science student building deployable, documented projects across **AWS cloud**, **DevOps**, **cloud security**, **AI applications**, and **full-stack engineering**.
+Final-year Computer Science student focused on **AWS CloudOps and DevOps**, with supporting project experience in cloud security, backend APIs, and AI applications.
 
 My goal is to build portfolio projects that can be inspected like real engineering work: clear architecture, local setup, Docker support, deployment proof, screenshots, logs, cost notes, and honest limitations.
 
@@ -23,8 +23,8 @@ Currently focused on **junior cloud engineer**, **DevOps intern**, **cloud secur
 
 | Project | Cloud Signal | Why It Matters |
 | --- | --- | --- |
-| [AWS ECS Fargate Terraform CI/CD Deployment Lab](https://github.com/Harshitsharma010/aws-ecs-fargate-terraform-cicd) | ECS Fargate, Docker, ECR, ALB, Terraform, CloudWatch, GitHub Actions CI | Shows containerized backend deployment, infrastructure as code, health checks, logs, CI, and cost-controlled teardown |
-| [TrustNet CyberCop](https://github.com/Harshitsharma010/trustnet-cybercop) | Lambda container, API Gateway, ECR, Amplify, CloudWatch, Chrome extension | Shows serverless ML inference, security product thinking, cloud deployment proof, monitoring, and user-facing workflow |
+| [AWS ECS Fargate Terraform CI/CD Deployment Lab](https://github.com/Harshitsharma010/aws-ecs-fargate-terraform-cicd) | ECS Fargate, Docker, ECR, ALB, Terraform, CloudWatch, GitHub Actions CI | Shows containerized deployment, infrastructure as code, Terraform validation, health checks, logs, and cost-controlled teardown |
+| [TrustNet CyberCop](https://github.com/Harshitsharma010/trustnet-cybercop) | Lambda container, API Gateway, ECR, Amplify, CloudWatch, API smoke checks | Shows serverless ML inference, cloud deployment proof, operational verification, monitoring, and security tradeoffs |
 
 These are my two strongest repositories for cloud and DevOps roles. They are built to be reviewed through architecture docs, screenshots, deployment proof, limitations, and reproducible setup steps.
 
@@ -161,10 +161,7 @@ Verified badges:
 - Cloud Engineer Intern
 - DevOps Intern
 - Junior Cloud Engineer
-- Cloud Security Intern
-- AI / ML Intern
 - Technical Support Engineer - Cloud
-- Full Stack Developer Intern
 
 ---
 
